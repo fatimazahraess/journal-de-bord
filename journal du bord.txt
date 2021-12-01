@@ -1,8 +1,18 @@
-                  
 
-                               Le 11/30/2021
+            Le 1/12/2021
 
 
-      Bon premierement je suis heureuse d etre avec vous dans la classe 1 et que tu es un bon formateur merci d abord pour tous 
-apres on a separer a des groupes pour bien structurer notre travaille et on a poser des regles ou bien charte de class pour travailer 
-dans une environnement bien organiser et puis on a fait une documentation sur comment fonctionne le web pour au moins connait comme ca marche 
+
+1 ) Qu'est ce qu ont a fait?
+
+-Aujourd'huit on a fait des presentations sur l internet et le web 
+
+2) Qu'est ce qu ont appris?
+
+-ont appris comment exacetement fonctionne le web c'est que lorsequ'on va acceder a une page web ce qui ce passe exactement
+deriere les coulisses c est que le client  d apres un navigateur web demande une requete a serveur et le serveur lui rendre cette requete
+a partir une adresse ip
+
+3)Comment va utiliser ce qu'on appris en des projets futiriques?
+
+-C'est justement de prendre une vision de cmment ca se passe et  quant va creer un site web savoir tout ce qui ce passe 
