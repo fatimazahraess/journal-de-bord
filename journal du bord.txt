@@ -1,18 +1,15 @@
-
-            Le 1/12/2021
+            Le 12/2/2021
 
 
 
 1 ) Qu'est ce qu ont a fait?
 
--Aujourd'huit on a fait des presentations sur l internet et le web 
+-Bon aujourd'huit j ai pratique un peu de ce que j ai vu hier en html et css d apres le brief 
 
 2) Qu'est ce qu ont appris?
 
--ont appris comment exacetement fonctionne le web c'est que lorsequ'on va acceder a une page web ce qui ce passe exactement
-deriere les coulisses c est que le client  d apres un navigateur web demande une requete a serveur et le serveur lui rendre cette requete
-a partir une adresse ip
+- j ai appris comment creer une page web simple et basic 
 
 3)Comment va utiliser ce qu'on appris en des projets futiriques?
 
--C'est justement de prendre une vision de cmment ca se passe et  quant va creer un site web savoir tout ce qui ce passe 
+- tout simplement lorsqu'on va creer des pages web des sites web des projets front end 
