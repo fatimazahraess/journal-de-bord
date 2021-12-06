@@ -1,0 +1,15 @@
+            Le 12/6/2021
+
+
+
+1 ) Qu'est ce qu ont a fait?
+
+-Bon aujourd'huit j ai continuee la documentation sur responsive et apreson a fait un quiz sur html et css
+
+2) Qu'est ce qu ont appris?
+
+- j ai appris comment rendre un site web responsive et adapter avec n importe quelle ecran
+
+3)Comment va utiliser ce qu'on appris en des projets futiriques?
+
+- quant je veux creer un site web il doit adapter avec plusieurs taille d ecran 
