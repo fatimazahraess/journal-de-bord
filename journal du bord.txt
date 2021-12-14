@@ -1,15 +1,19 @@
-            Le 12/2/2021
+      Le 12/14/2021
 
 
 
 1 ) Qu'est ce qu ont a fait?
 
--Bon aujourd'huit j ai pratique un peu de ce que j ai vu hier en html et css d apres le brief 
+-Bon aujourd'huit on a commencer le travail sur le dernier brief en squad la premier chose qu on a fait c est 
+de lire et bien comprendre le brief et apres on a diviser les taches entre squad et aussi on a fait un tableau 
+scrum pour structurer notre travail et aussi on a fait une petite documentation sur le github flow
 
 2) Qu'est ce qu ont appris?
 
-- j ai appris comment creer une page web simple et basic 
+- la premiere chose que j ai appris c est comment travailler en groupe comment poser plusieurs idees et au final
+se mettre d accord sur une seule idee et comment engager avec squad et laisser le cote personnel a cote
 
 3)Comment va utiliser ce qu'on appris en des projets futiriques?
 
-- tout simplement lorsqu'on va creer des pages web des sites web des projets front end 
+- c est comment faire une tache en respectant le delai et aussi avoir un esprit d equipe c est avoir une capacite 
+de travailler avec nimporte equipe 
