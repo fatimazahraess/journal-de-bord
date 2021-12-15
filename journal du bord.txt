@@ -1,19 +1,23 @@
-      Le 12/14/2021
+      Le 12/15/2021
 
 
 
 1 ) Qu'est ce qu ont a fait?
 
--Bon aujourd'huit on a commencer le travail sur le dernier brief en squad la premier chose qu on a fait c est 
-de lire et bien comprendre le brief et apres on a diviser les taches entre squad et aussi on a fait un tableau 
-scrum pour structurer notre travail et aussi on a fait une petite documentation sur le github flow
+-Bon aujourd'huit on a faire un live coding sur comment work github flow et vraiment j ai bien compris comment
+ ca marche et apres on faire un test entre squad pour pratiquer 
+
 
 2) Qu'est ce qu ont appris?
 
-- la premiere chose que j ai appris c est comment travailler en groupe comment poser plusieurs idees et au final
-se mettre d accord sur une seule idee et comment engager avec squad et laisser le cote personnel a cote
+- j ai appris comment on va travailer en squad avec le github flow d apres la creation des branches et le merge 
+et le pushing
 
 3)Comment va utiliser ce qu'on appris en des projets futiriques?
 
-- c est comment faire une tache en respectant le delai et aussi avoir un esprit d equipe c est avoir une capacite 
-de travailler avec nimporte equipe 
+-c est lorsqu on va travailler dans une entreprise dans une equipe on va utiliser le githubflow pour éviter beaucoup de conflits et aussi
+ Git Flow couvre l’ensemble des besoins standards pour la plupart des projets de développement. 
+Git Flow fonctionne encore mieux si vous travaillez en suivant une 
+méthodologie Scrum avec des sprints, comme Scrum.
+
+
