@@ -1,23 +1,18 @@
-      Le 12/15/2021
+    Le 12/20/2021
 
 
 
 1 ) Qu'est ce qu ont a fait?
 
--Bon aujourd'huit on a faire un live coding sur comment work github flow et vraiment j ai bien compris comment
- ca marche et apres on faire un test entre squad pour pratiquer 
-
+-Aujourd'huit on a fait une petite presentation sur les points quant va gagner qui sont basees sur les points de perfprmance et l effort et aussi les 
+softs-skills et juste apres on a fait un quiz pour tester est ce que vraiment on a bien apprendre tous ce q uon a vu.
 
 2) Qu'est ce qu ont appris?
 
-- j ai appris comment on va travailer en squad avec le github flow d apres la creation des branches et le merge 
-et le pushing
+- premierment d avoir des vrais competences comme ecoute active ponctualite etc et de  faire un effort par expl partage des info ou bien donner 
+un feedback a quelq un et le respect de bc des regles d apres le respect de delai et de cahier de charge etc pour gagner des points.
 
 3)Comment va utiliser ce qu'on appris en des projets futiriques?
 
--c est lorsqu on va travailler dans une entreprise dans une equipe on va utiliser le githubflow pour éviter beaucoup de conflits et aussi
- Git Flow couvre l’ensemble des besoins standards pour la plupart des projets de développement. 
-Git Flow fonctionne encore mieux si vous travaillez en suivant une 
-méthodologie Scrum avec des sprints, comme Scrum.
-
+- quant va travailler dans une entreprise il faut bien etre avec ces points
 
